@@ -1,2 +1,0 @@
-# Equipo
-Repositorio del equipo
