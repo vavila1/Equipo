@@ -1,0 +1,41 @@
+body {
+    font-style: 'Roboto';
+    background-image: url(images/back.jpg);
+    background-size: cover;
+}
+
+.login {
+    margin-top: 9em;
+    margin-left: 50px;
+}
+
+.login .card {
+    background: rgba(0, 20, 35, .8);
+}
+
+label {
+    font-size: 1.2em;
+    color: white;
+
+}
+
+.nav-link {
+    color: white;
+}
+
+h4 {
+    color: white;
+
+}
+
+footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: 350px;
+}
+
+.link_select {
+    text-decoration: inherit;
+    color: white;
+}
